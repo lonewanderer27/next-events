@@ -2,7 +2,7 @@
 
 Simple Next.JS website that allows you to view and book events.
 
-This is a project that I'm following from Maximillian's (Next.js Course)[https://www.udemy.com/course/nextjs-react-the-complete-guide/] over on Udemy.
+This is a project that I'm following from Maximillian's [Next.js Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) over on Udemy.
 
 ## Getting Started
 
